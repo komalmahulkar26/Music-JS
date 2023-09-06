@@ -1,0 +1,35 @@
+.box{
+    background-color: navy;
+    color: white;
+    width:30%;
+    height:70vh;
+    position:absolute;
+    left:450px;
+}
+h1{
+    margin-left: 120px;
+}
+img{
+    margin-left: 100px;
+}
+.range{
+    margin-top: 20px;
+    margin-left: 100px;
+width: 250px;
+}
+.music-control{
+    margin-top: 20px;
+    margin-left: 110px;
+    width:50%;
+    
+    display: flex;
+    justify-content: space-between;
+    
+}
+.music-time {
+
+    display: flex;
+    justify-content: space-between;
+    padding-left: 100px;
+    padding-right: 100px;
+  }
